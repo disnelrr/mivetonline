@@ -13,8 +13,8 @@ export default function Home() {
               <a href="#" className="">Tarifas</a>
             </div>
           </div>
-          <div className="flex items-center bg-white w-8/12 py-3 text-center " >
-            <p className='ml-96 '>626 322 230</p>
+          <div className="flex items-center bg-white w-8/12 py-3 justify-center" > <p>626 322 230</p>
+           
           </div>
           <div className="flex items-center text-white mr-9">
             <a href="#" className="mr-4"><i className="fab fa-twitter"></i></a>
