@@ -29,9 +29,7 @@ const config: Config = {
       colors: {
         primary: "#0b2976" , 
         secondary: "#7a9e68",
-        border: "#8ebe79" ,
-        colorBoton:"#04b431"
-      
+        accent:"#787170",
 
 
       },
