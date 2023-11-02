@@ -1,3 +1,4 @@
+import Header from '@/components/Header/Header'
 import './globals.css'
 import type { Metadata } from 'next'
 import { Inter,Nunito} from 'next/font/google'
@@ -22,7 +23,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${inter.variable} ${nunito.variable}`}>
-      <body>{children}</body>
+      <body>
+      <Header />
+        {children}</body>
     </html>
   )
 }
