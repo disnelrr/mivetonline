@@ -1,7 +1,11 @@
-import Image from 'next/image'
+import Banner from '@/components/Banner/Banner';
+import Header from '@/components/Header/Header';
+
+
 
 export default function Home() {
   return (
+    <div>
 
     <header>
       <div>
@@ -32,5 +36,9 @@ export default function Home() {
 
 
 
+    </div>
+      
+  
+  
   )
 }
