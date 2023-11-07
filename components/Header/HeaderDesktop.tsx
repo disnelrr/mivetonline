@@ -6,7 +6,7 @@ const HeaderDesktop = () => {
                     <div className="flex items-center ml-2">
                         <a href="#" className="mr-4">Horario</a>
                         <a href="/zona" className="mr-4">Zona </a>
-                        <a href="#" className="">Tarifas</a>
+                        <a href="/tarifas" className="">Tarifas</a>
                     </div>
                 </div>
                 <div className="flex items-center bg-white w-8/12 py-3 justify-center" ><p>626 322 230</p>

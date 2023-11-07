@@ -1,6 +1,4 @@
 import MenuMovile from "./MenuMovile";
-
-
 const HeaderMovile = () => {
     return (
         <div className=' lg:hidden'>
@@ -8,12 +6,7 @@ const HeaderMovile = () => {
                 <div className="p-3 ml-3">MIVETONLINE</div>
                 <div><MenuMovile/></div>
                 </div>
-
-
-
-
         </div>
-
     )
 }
 
