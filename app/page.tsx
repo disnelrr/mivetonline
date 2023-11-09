@@ -7,6 +7,11 @@ export default function Home() {
   return (
     <div>
 
+<<<<<<< HEAD
+    <Header />
+    <Banner />
+    
+=======
     <header>
       <div>
         <nav className="flex justify-between items-center  bg-primary ">
@@ -34,6 +39,7 @@ export default function Home() {
       </div>
     </header>
 
+>>>>>>> main
 
 
     </div>
